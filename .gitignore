@@ -1,0 +1,9 @@
+venv/
+data/raw/
+data/processed/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+logs/
+models/hyperparam_search/
+catboost_info/
